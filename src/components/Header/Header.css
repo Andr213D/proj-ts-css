@@ -1,0 +1,17 @@
+.Header{
+    margin: auto;
+    width: 900px;
+    height: 60px;
+    background-color: #ECECEC;
+}
+.Header a {
+    display: block;
+    font-family: 'Russo One';
+    font-size: 30px;
+}
+
+.Header hr {
+    position: relative;
+    display: block;
+    top: 2px;
+}
