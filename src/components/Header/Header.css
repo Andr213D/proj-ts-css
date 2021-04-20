@@ -1,4 +1,5 @@
 .Header{
+    position: relative;
     margin: auto;
     width: 900px;
     height: 60px;
@@ -9,9 +10,39 @@
     font-family: 'Russo One';
     font-size: 30px;
 }
-
 .Header hr {
     position: relative;
     display: block;
     top: 2px;
 }
+
+.loginWindow {
+    position: absolute;
+    width: 160px;
+    height: 30px;
+    right: 20px;
+    margin-top: 15px;
+}
+
+.buttonLeft{
+    width: 120px;
+    height: 30px;
+    background-color: #C4C4C4;
+    border: 1px #C4C4C4;
+    border-radius: 5px 5px;
+    margin-right: 10px;
+}
+.buttonLeft a {
+    font-family: Roboto;
+    font-size: 20px;
+}
+
+.buttonRight{
+    width: 30px;
+    height: 30px;
+    background: url(../../assets/img/icon.png);
+    border-radius: 5px 5px;
+    padding: 6px;
+}
+
+/*transform: rotate(-180deg);*/

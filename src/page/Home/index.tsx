@@ -1,12 +1,17 @@
 import React from "react";
 import './Home.css';
+import { CheckIn } from "../../components/CheckIn";
 
 export const Home: React.FC = () => {
     return (
         <div className="Home">
-            <a className="padding-10px">
-                Home
-            </a>
+            <CheckIn/>
+            <div className="avatar">
+                <p> Avatar </p>
+            </div>
+            <div className="videoBlog">
+                video
+            </div>
         </div>
     )
 }
