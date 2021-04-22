@@ -1,0 +1,115 @@
+.Gamestuff{
+    position: absolute;
+    width: 780px;
+    height: 400px;
+    top: 560px;
+    margin-left: 60px;
+
+    background: #C4C4C4;
+    border-radius: 10px;
+}
+
+.Sage{
+    position: absolute;
+    width: 150px;
+    height: 360px;
+    margin-top: 20px;
+    margin-left: 20px;
+    background: #FFFFFF;
+
+    border-radius: 10px;
+}
+.Sage div {
+    position: absolute;
+    width: 150px;
+    height: 50px;
+
+    background: #DFE31D;
+    border-radius: 10px 10px 0 0;
+}
+.Sage p {
+    font-family: 'Roboto';
+    font-size: 14px;
+    margin-top: 55px;
+    text-align: center;
+}
+.Sage div p {
+    font-size: 18px;
+    margin-top: 15px;
+}
+.Sage img{
+    border-radius: 10px;
+}
+
+.Action{
+    position: absolute;
+    width: 400px;
+    height: 360px;
+    margin-top: 20px;
+    margin-left: 190px;
+
+    background: #FFFFFF;
+    border-radius: 10px;
+}
+.Action #Orks{
+    position: absolute;
+    margin-top: 200px;
+    right: 0;
+}
+.Chat{
+    position: absolute;
+    width: 150px;
+    height: 240px;
+    margin-top: 20px;
+    right: 20px;
+
+    background: #FFFFFF;
+    border-radius: 10px;
+}
+.Chat div {
+    position: absolute;
+    width: 150px;
+    height: 40px;
+
+    background: #DFE31D;
+    border-radius: 10px 10px 0 0;
+}
+.Chat p {
+    font-family: 'Roboto';
+    font-size: 14px;
+    margin-top: 50px;
+    text-align: center;
+}
+.Chat div p {
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+.Online{
+    position: absolute;
+    width: 150px;
+    height: 100px;
+    margin-top: 280px;
+    right: 20px;
+
+    background: #FFFFFF;
+    border-radius: 10px;
+}
+.Online div {
+    position: absolute;
+    width: 150px;
+    height: 40px;
+
+    background: #DFE31D;
+    border-radius: 10px 10px 0 0;
+}
+.Online p {
+    font-family: 'Roboto';
+    font-size: 14px;
+    margin-top: 50px;
+    text-align: center;
+}
+.Online div p {
+    font-size: 18px;
+    margin-top: 10px;
+}

@@ -1,0 +1,30 @@
+.videoBlog{
+    position: absolute;
+    width: 780px;
+    height: 100px;
+    margin-top: 370px;
+    margin-left: 60px;
+    border-radius: 10px 10px;
+    background-color: #C4C4C4;
+}
+.videoBlog div {
+    position: absolute;
+    overflow: hidden;
+    width: 140px;
+    height: 100px;
+    border-radius: 10px 10px;
+    z-index: 1;
+}
+#videoMartelDiv2{
+    margin-left: 160px;
+}
+#videoMartelDiv3{
+    margin-left: 320px;
+}
+#videoMartelDiv4{
+
+    margin-left: 480px;
+}
+#videoMartelDiv5{
+    right: 0;
+}

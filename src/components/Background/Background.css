@@ -1,5 +1,3 @@
-
-
 .Background{
     position: absolute;
     z-index: -1;
@@ -15,8 +13,15 @@
     position: absolute;
     width: 287px;
     height: 287px;
-    left: 1453px;
+    right: 160px;
     top: 28px;
+}
+.nut{
+    position: absolute;
+    width: 35px;
+    height: 103px;
+    right: 150px;
+    transform: rotate(45deg);
 }
 .noAtm{
     position: absolute;
@@ -36,7 +41,7 @@
     position: absolute;
     width: 199px;
     height: 110px;
-    left: 1647px;
+    right: 60px;
     top: 350px;
     transform: rotate(-25deg);
 }

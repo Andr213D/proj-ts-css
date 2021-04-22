@@ -36,6 +36,9 @@
     font-family: Roboto;
     font-size: 20px;
 }
+.buttonLeft :hover{
+    background-color: #C9C9C9;
+}
 
 .buttonRight{
     width: 30px;

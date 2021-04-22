@@ -1,8 +1,6 @@
 import React from "react";
 import './Header.css';
 
-import icon from "../../assets/img/icon.png";
-
 export const Buttons: React.FC = () => {
     return (
         <div className=" loginWindow ">

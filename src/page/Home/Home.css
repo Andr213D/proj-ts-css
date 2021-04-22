@@ -1,7 +1,7 @@
 .Home {
     margin: auto;
     width: 900px;
-    height: 800px;
+    height: 920px;
     background-color: #ECECEC;
 }
 
@@ -15,12 +15,3 @@
     background-color: #C4C4C4;
 }
 
-.videoBlog{
-    position: absolute;
-    width: 780px;
-    height: 100px;
-    margin-top: 370px;
-    margin-left: 60px;
-    border-radius: 10px 10px;
-    background-color: #C4C4C4;
-}

@@ -2,6 +2,7 @@ import React from "react";
 import './Background.css';
 
 import planet from "../../assets/img/planet.png";
+import nut from "../../assets/img/nut.png";
 import noAtm from "../../assets/img/noAtm.png";
 import rocket from "../../assets/img/rocket.png";
 import languid from "../../assets/img/languid.png";
@@ -11,6 +12,8 @@ export const Background: React.FC = () => {
         <div className="Background">
             <img className="planet"
                  src= { planet } />
+            <img className="nut"
+                 src= { nut } />
             <img className="noAtm"
                  src= { noAtm }  />
             <img className="rocket"
