@@ -2,7 +2,7 @@
     position: absolute;
     width: 780px;
     height: 400px;
-    top: 560px;
+    top: 500px;
     margin-left: 60px;
 
     background: #C4C4C4;
@@ -28,9 +28,8 @@
     border-radius: 10px 10px 0 0;
 }
 .Sage p {
-    font-family: 'Roboto';
     font-size: 14px;
-    margin-top: 55px;
+    margin-top: 69px;
     text-align: center;
 }
 .Sage div p {
@@ -56,6 +55,7 @@
     margin-top: 200px;
     right: 0;
 }
+
 .Chat{
     position: absolute;
     width: 150px;
@@ -75,7 +75,6 @@
     border-radius: 10px 10px 0 0;
 }
 .Chat p {
-    font-family: 'Roboto';
     font-size: 14px;
     margin-top: 50px;
     text-align: center;
@@ -104,7 +103,6 @@
     border-radius: 10px 10px 0 0;
 }
 .Online p {
-    font-family: 'Roboto';
     font-size: 14px;
     margin-top: 50px;
     text-align: center;

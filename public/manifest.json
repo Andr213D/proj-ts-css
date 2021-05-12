@@ -1,0 +1,15 @@
+{
+  "short_name": "Worker ship",
+  "name": "Simple game",
+  "icons": [
+    {
+      "src": "ico.png",
+      "sizes": "30x30",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#D4E4E5"
+}

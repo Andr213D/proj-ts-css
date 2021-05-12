@@ -1,8 +1,10 @@
 .Home {
+    position: relative;
     margin: auto;
     width: 900px;
     height: 920px;
     background-color: #ECECEC;
+    z-index: 1;
 }
 
 .avatar{

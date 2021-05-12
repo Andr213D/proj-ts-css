@@ -1,0 +1,99 @@
+.Characteristics {
+    position: absolute;
+    width: 600px;
+    height: 300px;
+    margin-top: 40px;
+    margin-left: 60px;
+    border-radius: 10px 10px;
+    background-color: #C4C4C4;
+}
+.Characteristics p {
+    font-size: 20px;
+    display: inline;
+}
+#setP{
+    width: 190px;
+    text-align: center;
+}
+.TitleHead {
+    text-align: center;
+}
+.TitleHead p {
+    font-family: 'Russo One';
+}
+.FirstBlock{
+    width: 250px;
+    padding-left: 40px;
+}
+.Nickname  {
+    height: 40px;
+}
+.Karma {
+    padding-top: 30px;
+}
+.RaceSet {
+    padding-top: 40px;
+    padding-left: 20px;
+}
+#RaceSet{
+    width: 100px;
+    height: 50px;
+    position: absolute;
+    display: block;
+    text-align: center;
+    font-size: 12px;
+    margin-top: 0;
+    margin-left: -25px;
+}
+.RaceSet div {
+    position: relative;
+    left: 100px;
+    bottom: 40px;
+}
+.RaceSet img {
+    border-radius: 5px 5px;
+}
+.Lvl {
+    position: absolute;
+    bottom: 30px;
+}
+
+.SecondBlock{
+    position: absolute;
+    width: 200px;
+    right: 100px;
+    top: 44px;
+}
+.SecondBlock td{
+    height: 50px;
+}
+
+
+.News{
+    position: absolute;
+    right: 40px;
+    margin-top: -145px;
+}
+.News div{
+    width: 50px;
+    height: 50px;
+    background: #FFF;
+    overflow: hidden;
+    border-radius: 25px 25px;
+    margin-bottom: 13px;
+    margin-left: 52px;
+}
+.News img {
+    background: #FFF;
+    margin-top: -10px;
+    margin-left: -18px;
+}
+.News div :hover {
+    background: darkgrey;
+}
+.News div :active {
+    background: darkslategray;
+}
+.News p {
+    margin-left: 51px;
+}

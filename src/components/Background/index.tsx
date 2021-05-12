@@ -11,15 +11,20 @@ export const Background: React.FC = () => {
     return (
         <div className="Background">
             <img className="planet"
-                 src= { planet } />
+                 src= { planet }
+                 alt="planet"/>
             <img className="nut"
-                 src= { nut } />
+                 src= { nut }
+                 alt="nut"/>
             <img className="noAtm"
-                 src= { noAtm }  />
+                 src= { noAtm }
+                 alt="noAtm"/>
             <img className="rocket"
-                 src= { rocket } />
+                 src= { rocket }
+                 alt="rocket"/>
             <img className="languid"
-                 src= { languid }/>
+                 src= { languid }
+                 alt="languid"/>
         </div>
     )
 }

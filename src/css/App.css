@@ -1,7 +1,11 @@
 
 .App {
-
+    background: #D4E4E5;
 }
 
+.App p {
+    font-family: 'Roboto';
+    margin: 0;
+}
 
 
